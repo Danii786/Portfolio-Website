@@ -1,0 +1,14 @@
+.math{
+    width: 50%;
+    height:27vh ;
+   object-fit: cover;
+    /* border-color: rgb(248, 244, 244); */
+    background-color:rgb(220, 220, 17);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+   border-radius: 150px;
+   object-fit: cover;
+  
+    padding-left: 3px;
+}
